@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm quinnhub650 👋
 
-<!--
-**quinnhub650/quinnhub650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Singapore.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+Python, JavaScript, Go, Docker, Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on open-source contributions, developer ergonomics, minimalism
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@quinnhub650](https://github.com/quinnhub650) on GitHub
